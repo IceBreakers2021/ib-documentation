@@ -6,7 +6,8 @@ This project is part of the course *Business Development Lab of Entrepreneurship
 
 ## Guides
 
-* **Setup** game engine [Unity](./setup_unity.md)
+* [Setting up game engine Unity](./setup_unity.md)
+* [Downloading a project and using git](./using_git.md)
 
 ## Repositories
 

@@ -4,29 +4,29 @@
 
 * Go to Unity download web page (<https://unity3d.com/get-unity/download>)
 
-* Click on Hub download button ("**Download Unitiy Hub**")
+* Click on Hub download button ("**Download Unity Hub**")
 
 * Ubuntu/Linux: make downloaded AppImage executable: `chmod +x UnityHub.AppImage`
 
 * Open Unity Hub.
 
-* Click on "Installs" and than "ADD".
+* Click on "Installs" and then "ADD".
 
-* Click on "Unity 2020.3 (LTS)" and than "NEXT".
+* Click on "Unity 2020.3 (LTS)" and then "NEXT".
 
-* Click on "DONE". No need to install modules for now. Can be added later.
+* Click on "DONE". No need to install modules for now, can be added later.
 
 * Click on top-right icon in Unity Hub and create a Unity account (ID), if not already.
 
 * Sign in within Unity Hub with your account.
 
-* Go into "Preferences" (top-right) and than into "Licence Management".
+* Go into "Preferences" (top-right) and then into "Licence Management".
 
 * Add a free "Personal Licence".
 
-* Go back to the main page of Untiy Hub.
+* Go back to the main page of Unity Hub.
 
-* From here you can now start a new project with the Untiy Editor!
+* From here you can now start a new project with the Unity Editor!
 
 ## Get to know Unity
 
@@ -38,7 +38,7 @@
 
 ## (Optional) Linux: Setup script editing with Visual Studio Code
 
-* Writing and editing scripts in Unity requires a third-party editor. By default this is set to "Open by file extension". To use VS Code properly with all functionality some stuff has to be done.
+* Writing and editing scripts in Unity requires a third-party editor. By default this is set to "Open by file extension". To use VS Code properly with all functionality some extra stuff has to be done.
 
 * Install VS Code, if not already. One way of doing it:
 

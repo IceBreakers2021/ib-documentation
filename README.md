@@ -4,6 +4,10 @@
 
 This project is part of the course *Business Development Lab of Entrepreneurship Engineers* at KTH / EIT.
 
+## Guides
+
+* **Setup** game engine [Unity](./setup_unity.md)
+
 ## Repositories
 
 | Repository                | Description                                                                  |
